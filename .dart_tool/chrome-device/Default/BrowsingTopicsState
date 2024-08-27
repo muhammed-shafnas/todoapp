@@ -1,0 +1,78 @@
+{
+   "epochs": [ {
+      "calculation_time": "13366977405244421",
+      "config_version": 0,
+      "model_version": "0",
+      "padded_top_topics_start_index": 0,
+      "taxonomy_version": 0,
+      "top_topics_and_observing_domains": [  ]
+   }, {
+      "calculation_time": "13367599984679536",
+      "config_version": 2,
+      "model_version": "5",
+      "padded_top_topics_start_index": 0,
+      "taxonomy_version": 2,
+      "top_topics_and_observing_domains": [ {
+         "hashed_domains": [  ],
+         "topic": 496
+      }, {
+         "hashed_domains": [  ],
+         "topic": 325
+      }, {
+         "hashed_domains": [  ],
+         "topic": 32
+      }, {
+         "hashed_domains": [  ],
+         "topic": 555
+      }, {
+         "hashed_domains": [  ],
+         "topic": 544
+      } ]
+   }, {
+      "calculation_time": "13368211619154028",
+      "config_version": 2,
+      "model_version": "5",
+      "padded_top_topics_start_index": 0,
+      "taxonomy_version": 2,
+      "top_topics_and_observing_domains": [ {
+         "hashed_domains": [  ],
+         "topic": 541
+      }, {
+         "hashed_domains": [  ],
+         "topic": 626
+      }, {
+         "hashed_domains": [  ],
+         "topic": 214
+      }, {
+         "hashed_domains": [  ],
+         "topic": 539
+      }, {
+         "hashed_domains": [  ],
+         "topic": 503
+      } ]
+   }, {
+      "calculation_time": "13369082934537599",
+      "config_version": 2,
+      "model_version": "5",
+      "padded_top_topics_start_index": 0,
+      "taxonomy_version": 2,
+      "top_topics_and_observing_domains": [ {
+         "hashed_domains": [  ],
+         "topic": 60
+      }, {
+         "hashed_domains": [  ],
+         "topic": 95
+      }, {
+         "hashed_domains": [  ],
+         "topic": 624
+      }, {
+         "hashed_domains": [  ],
+         "topic": 423
+      }, {
+         "hashed_domains": [  ],
+         "topic": 337
+      } ]
+   } ],
+   "hex_encoded_hmac_key": "16686EB378A840750DECC072822F18871BAB0F26389EFC4DFEE60DC8F4632849",
+   "next_scheduled_calculation_time": "13369687739865606"
+}
